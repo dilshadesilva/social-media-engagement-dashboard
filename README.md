@@ -5,7 +5,7 @@ A Power BI dashboard analyzing social media engagement data using DAX, charts, a
 
 ![Dashboard Screenshot](./Screenshot (166).png)
 
-## 🔍 Project Overview
+### 🔍 Project Overview
 
 This Power BI dashboard provides insights into social media engagement patterns across various platforms, brands, topics, emotions, and days of the week. The dataset was sourced from Kaggle and modified for better analysis. The dashboard helps in identifying which platforms and brands have the highest engagement, the sentiment of users, and the toxicity levels in interactions.
 
