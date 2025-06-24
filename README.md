@@ -28,7 +28,7 @@ No of Locations = COUNTROWS('Social Media Engagement')
 AVG Toxity Score = AVERAGE([Toxity Score])
 ````
 
-A **dynamic parameter** table was created to switch between these four KPIs:
+A dynamic parameter table was created to switch between these four KPIs:
 
 ```DAX
 Parameter = {
@@ -39,7 +39,7 @@ Parameter = {
 }
 ```
 
-## 📈 Visualizations
+📈 Visualizations
 
 * **Donut Chart**: Days of Week – by KPI
 * **Stacked Bar Chart**: Platforms vs selected KPI
@@ -49,44 +49,44 @@ Parameter = {
 * **Line Chart**: Topic Category vs Total Engagement
 * **Matrix Table**: Platform by Reactions (likes, comments, shares, toxicity)
 
-## 🔎 Filters/Slicers
+🔎 Filters/Slicers
 
 * Language
 * Campaign Name
 * Topic Category
 * Brands
 
-## 🔗 Dataset Reference
+🔗 Dataset Reference
 
 The dashboard includes a clickable image linked to the dataset's original source on Kaggle. Hold `Ctrl + Click` in Power BI to open the dataset URL.
 
 
-## 📷 Dashboard Preview
+📷 Dashboard Preview
 
-*The image above shows the complete Power BI dashboard with dynamic filtering and KPI switching functionality.*
+The image above shows the complete Power BI dashboard with dynamic filtering and KPI switching functionality.
 
 
-## 📌 How to Use This Project
+📌 How to Use This Project
 
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/yourusername/social-media-engagement-dashboard.git
+   git clone https://github.com/dilshadesilva/social-media-engagement-dashboard.git
    ```
 2. Open the `.pbix` file in **Power BI Desktop**
 3. Explore the measures, parameter slicer, and visualizations
 4. Optional: Replace the dataset with your own updated version
 
 
-## 📄 License
+📄 License
 
 This project is shared for educational and portfolio purposes. Please ensure that you comply with the Kaggle dataset license if republishing or using it commercially.
 
-## 🙋‍♀️ Author
+🙋‍♀️ Author
 
-**Dilsha Nethmini**
+Dilsha Nethmini
 Business Analyst | Data Enthusiast
-🌍 Sri Lanka
+Sri Lanka
 
 ```
 ---
