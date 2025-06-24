@@ -3,7 +3,7 @@ A Power BI dashboard analyzing social media engagement data using DAX, charts, a
 ````
 # 📊 Social Media Engagement Dashboard - Power BI Project
 
-![Dashboard Screenshot](.Screenshot (166).png)
+![Dashboard Screenshot](./Screenshot (166).png)
 
 ## 🔍 Project Overview
 
