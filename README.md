@@ -1,15 +1,15 @@
 # social-media-engagement-dashboard
 A Power BI dashboard analyzing social media engagement data using DAX, charts, and sentiment analysis.
 ````
-# 📊 Social Media Engagement Dashboard - Power BI Project
+📊 Social Media Engagement Dashboard - Power BI Project
 
 ![Dashboard Screenshot](./Screenshot (166).png)
 
-### 🔍 Project Overview
+🔍 Project Overview
 
 This Power BI dashboard provides insights into social media engagement patterns across various platforms, brands, topics, emotions, and days of the week. The dataset was sourced from Kaggle and modified for better analysis. The dashboard helps in identifying which platforms and brands have the highest engagement, the sentiment of users, and the toxicity levels in interactions.
 
-## 📁 Dataset
+📁 Dataset
 
 - **Source**: [Kaggle - Social Media Engagement Dataset](https://www.kaggle.com/)  
 - The dataset was cleaned and modified using **Microsoft Excel** before being imported into Power BI.
@@ -19,7 +19,7 @@ This Power BI dashboard provides insights into social media engagement patterns 
   - `Likes Count`, `Shares Count`, `Comments Count`, `Engagement Rate`
   - `Brand Name`, `Campaign Name`, `Campaign Phase`
 
-## 🛠️ Measures Created (DAX)
+🛠️ Measures Created (DAX)
 
 ```DAX
 Total Engagement Rate = SUM([Engagement Rate])
