@@ -87,10 +87,3 @@ This project is shared for educational and portfolio purposes. Please ensure tha
 Dilsha Nethmini
 Business Analyst | Data Enthusiast
 Sri Lanka
-
-```
----
-
-Once you go into the `README.md` file on GitHub and click ✏️ (edit), just **delete what’s inside** and **paste all of the above**.  
-Let me know if you're at that step, and I can check your README too if you share the GitHub repo link.
-```
